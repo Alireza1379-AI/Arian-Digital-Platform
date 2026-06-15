@@ -1,0 +1,26 @@
+{
+  "short_name": "آرین دیجیتال",
+  "name": "آرین دیجیتال | بازارگاه تخصصی خدمات آنلاین و گرافیک",
+  "description": "پلتفرم خدمات آنلاین، تایپ تخصصی، امور گرافیکی و گیفت‌کارت‌های بین‌المللی",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/ariandigitalicon192/192/192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/ariandigitalicon512/512/512",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#0B0F1A",
+  "theme_color": "#4F46E5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "fa-IR"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Arian Digital Blueprint & Playground",
+  "description": "Interactive prototype, simulator, and production-grade technical architecture blueprint for آرین دیجیتال (Arian Digital) - a Persian digital service marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
